@@ -1,2 +1,2 @@
 # app-aveji
-Frontend from 0 course project
+Frontend from 0 course first project
