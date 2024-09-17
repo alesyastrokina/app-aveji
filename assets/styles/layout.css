@@ -23,3 +23,14 @@
 .content-row--spaced {
   margin-bottom: 100px;
 }
+
+.content-column-title {
+    min-width: 30%;
+    color: #212529;
+    margin-bottom: 15%;
+}
+
+.content-column-details {
+    max-width: 70%;
+    color: #212529;
+}
