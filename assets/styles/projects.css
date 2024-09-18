@@ -1,0 +1,21 @@
+.projects-container  {
+    display: block;
+}
+
+.projects__header-title  {
+    color: #212529;
+    width: 100%;
+    padding-top: 250px;
+}
+
+.projects__gallery {
+    display: flex;
+    width: 100%;
+    margin-top: 30px;
+    gap: 0 60px;
+}
+
+
+
+
+
