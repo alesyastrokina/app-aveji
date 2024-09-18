@@ -1,0 +1,42 @@
+.form-container  {
+    display: flex;
+    gap: 0 60px;
+    max-height: 700px;
+    margin-top: 60px;
+    color: #212529;
+}
+
+.input {
+    color: #000;
+    background: #fff;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 1px;
+    border-color: #000000;
+    border-radius: 0;
+    border-bottom-style: solid;
+}
+
+.button {
+    background: #000;
+}
+
+.subscribe-form__body  {
+    color: #212529;
+    margin-bottom: 30px;
+}
+
+.form-row {
+    color: #212529;
+}
+
+.form-stores {
+    display: flex;
+    gap: 0 18px;
+}
+
+
+
+
+
